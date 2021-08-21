@@ -1,0 +1,4 @@
+APP_NAME = "ReWord"
+
+WIDTH = 650
+HEIGHT = 650
